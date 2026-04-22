@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions by Bony Amin
+# 🚀 LeetCode Solutions
 
 Welcome to my LeetCode problem-solving repository!
 This repository contains my solutions to various LeetCode problems, organized by topic and difficulty. I am continuously updating it as I practice and improve my problem-solving skills.
